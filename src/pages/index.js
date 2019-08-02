@@ -11,14 +11,14 @@ const IndexPage = () => {
         <div align="center">
         <br/>
           <p style={{color: "cornflowerblue", fontSize: 50, fontWeight: 'bold'}}>
-            Gatsby Markdown Starter
+            Masde2
           </p>
-          <h2>Boilerplate for markdown-based website</h2>
+          <h2>Areas de conocimiento</h2>
           <br/>
-          <Link to="/docs/get-started/introduction">
-            <Button type="primary" size="large" style={{marginRight: 10}}>Get Started</Button>
+          <Link to="/blog">
+            <Button type="primary" size="large" style={{marginRight: 10}}>Docs</Button>
           </Link>
-          <Button type="primary" size="large" href="https://github.com/cvluca/gatsby-starter-markdown">Github</Button>
+          <Button type="primary" size="large" href="https://dev.azure.com/DevTrifenix/_git/masde2-test">Github</Button>
         </div>
       </div>
     </Layout>
