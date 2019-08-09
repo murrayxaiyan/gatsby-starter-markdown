@@ -1,6 +1,6 @@
 ---
 date: "2019-08-09"
-title: Resumen del proyecto
+title: Nuevo archivo
 root: "/blog"
 ---
 
